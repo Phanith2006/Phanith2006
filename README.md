@@ -45,17 +45,10 @@ const pheunphanith = {
 <td width="50%" valign="top">
 
 - 🌐 **Full-Stack Web Development**
-- 📱 **Mobile App Development**
-- 🧮 **Data Structures & Algorithms**
+  
 
 </td>
-<td width="50%" valign="top">
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🏗️ **Software Architecture & System Design**
-- 📖 **Open Source & Knowledge Sharing**
-
-</td>
 </tr>
 </table>
 
